@@ -1,2 +1,2 @@
 # Installpackages
-install rpm-deb packages
+- install rpm-deb-pkg packages
